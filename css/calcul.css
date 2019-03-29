@@ -1,0 +1,13 @@
+body{
+    padding:25px;
+}
+.bor{
+    border-radius: 30px;
+    border-color: black;
+}
+#i1,#i2,#i3,#i4{
+    width:100px;
+}
+textarea{
+    width:400px;
+}
